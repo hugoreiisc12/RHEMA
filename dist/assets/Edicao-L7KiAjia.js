@@ -1,1 +1,0 @@
-import{j as o}from"./vendor-B6VV98zY.js";import{S as r,M as t}from"./ScrollReveal-BXBt20an.js";import"./index-B8rHUz83.js";const s=()=>o.jsx(r,{direction:"up",children:o.jsx(t,{category:"EDIÇÃO"})});export{s as default};

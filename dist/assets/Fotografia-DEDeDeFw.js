@@ -1,0 +1,1 @@
+import{j as o}from"./vendor-B6VV98zY.js";import{S as r,M as t}from"./ScrollReveal-BPClMsa7.js";import"./index-DW1t6_Vf.js";const s=()=>o.jsx(r,{direction:"up",children:o.jsx(t,{category:"FOTOGRAFIA"})});export{s as default};
