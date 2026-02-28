@@ -1,0 +1,21 @@
+{
+  "files": [],
+  "references": [{ "path": "./tsconfig.app.json" }, { "path": "./tsconfig.node.json" }],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components/ui/*": ["./src/Componentes/Interface do Usuario/*"],
+      "@/components/*": ["./src/Componentes/*"],
+      "@/assets/*": ["./src/ativos/*"],
+      "@/hooks/*": ["./src/gancho/*"],
+      "@/lib/*": ["./src/bilbioteca/*"],
+      "@/pages/*": ["./src/pagina/*"]
+    },
+    "noImplicitAny": false,
+    "noUnusedParameters": false,
+    "skipLibCheck": true,
+    "allowJs": true,
+    "noUnusedLocals": false,
+    "strictNullChecks": false
+  }
+}
